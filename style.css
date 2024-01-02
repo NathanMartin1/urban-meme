@@ -1,0 +1,24 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color:aqua;
+}
+h4 {
+    color:grey;
+}
+#camera {
+    width: 500px;
+    height: 400px;
+}
+img #resultShow {
+    width:auto;
+    height:auto;
+    border-radius: 15%;
+}
+img:hover{
+    border-radius:140px;
+    border-color: black;
+}
